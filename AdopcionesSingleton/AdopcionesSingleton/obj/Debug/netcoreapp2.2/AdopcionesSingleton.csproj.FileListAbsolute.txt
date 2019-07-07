@@ -1,0 +1,11 @@
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\netcoreapp2.2\AdopcionesSingleton.csprojAssemblyReference.cache
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\netcoreapp2.2\AdopcionesSingleton.csproj.CoreCompileInputs.cache
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\netcoreapp2.2\AdopcionesSingleton.AssemblyInfoInputs.cache
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\netcoreapp2.2\AdopcionesSingleton.AssemblyInfo.cs
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\netcoreapp2.2\AdopcionesSingleton.deps.json
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\netcoreapp2.2\AdopcionesSingleton.runtimeconfig.json
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\netcoreapp2.2\AdopcionesSingleton.runtimeconfig.dev.json
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\netcoreapp2.2\AdopcionesSingleton.dll
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\netcoreapp2.2\AdopcionesSingleton.pdb
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\netcoreapp2.2\AdopcionesSingleton.dll
+C:\Users\AXEN-JR48Q12\source\repos\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\netcoreapp2.2\AdopcionesSingleton.pdb
